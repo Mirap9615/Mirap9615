@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 Current Projects:
 - Furina Bot [Discord: Osu / Management / Youtube / Math / Misc]
 - Crende Game
+- Crende Game V2
