@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 Current Projects:
 - Furina Bot [Discord: Osu / Management / Reminders / Youtube / Math / Misc]
 - Crende Game
-- Splendorous Rainfall 
+- Splendorous Rainfall
+- Mage Creator, Organizer, Editor [/power]
